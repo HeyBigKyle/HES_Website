@@ -315,3 +315,5 @@ a.card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
 .inline-cta h2{color:#fff;font-size:clamp(1.6rem,3vw,2.2rem);margin-bottom:8px}
 .inline-cta p{color:#d2d5d6;max-width:52ch}
 .inline-cta .cta-btns{display:flex;gap:12px;flex-wrap:wrap;flex:none}
+.svc-photo{max-width:1080px;margin:0 auto;padding:0 24px}
+.svc-photo img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:var(--r-lg);box-shadow:var(--shadow);display:block}
